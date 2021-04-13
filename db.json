@@ -95,4 +95,26 @@
             "title": "Eos"
         }
     ]
+    "short-songlist": [
+        {
+            "data_uscita": "1985-10-10T00:00:00.000Z",
+            "durata": 23,
+            "title": "The wall"
+        },
+        {
+            "data_uscita": "2001-10-10T00:00:00.000Z",
+            "durata": 15,
+            "title": "The Grudge"
+        },
+        {
+            "data_uscita": "2001-10-15T00:00:00.000Z",
+            "durata": 4,
+            "title": "Pagan Poetry"
+        },
+        {
+            "data_uscita": "2010-10-15T00:00:00.000Z",
+            "durata": 4,
+            "title": "Eos"
+        }
+    ]
 }
